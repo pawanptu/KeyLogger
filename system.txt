@@ -1,0 +1,12 @@
+Could get Public IP Address 
+Processor : Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System : Windows 10.0.22000
+Machine : AMD64
+Hostname : Pawan
+Private IP address : 172.31.99.104
+Could get Public IP Address 
+Processor : Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System : Windows 10.0.22000
+Machine : AMD64
+Hostname : Pawan
+Private IP address : 172.31.99.104
